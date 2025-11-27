@@ -30,8 +30,6 @@ A simple GUI is provided to **upload images and display results**.
 | Candidate Band | Potential license plate regions cropped |
 | Final Output | Final selected license plate band |
 
-*(You can add screenshots here for visual demo)*
-
 ---
 
 ## How to Run
